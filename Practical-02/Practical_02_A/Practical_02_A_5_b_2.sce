@@ -24,4 +24,6 @@ title('Original image');
 
 subplot(1,2,2);
 imshow(uint8(d));
-title('Gray level slicing with background');
+title('Gray level slicing with background __By Mazhar Solkar');
+
+

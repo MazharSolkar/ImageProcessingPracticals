@@ -1,9 +1,3 @@
-/*
-Practical 01
-(C) Program to study the effects of varying the number of intensity levels in a digital
-image
-*/
-
 clc;
 close;
 
@@ -18,5 +12,8 @@ for i = 1:length(k)
     d=2^i;
     z=round(img/d);
     subplot(3, 3, i);
+    title('__By Mazhar Solkar')
     imshow(z*d);
 end
+
+

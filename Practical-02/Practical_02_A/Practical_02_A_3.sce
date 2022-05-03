@@ -15,4 +15,6 @@ for i = 1:m
 end
 subplot(1,2,2);
 imshow(uint8(c));
-title('Log transform image');
+title('Log transform image __By Mazhar Solkar');
+
+

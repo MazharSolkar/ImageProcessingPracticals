@@ -32,4 +32,6 @@ imshow(a);
 title('Original image')
 subplot(1,2,2);
 imshow(uint8(ics));
-title('Contrast strech image');
+title('Contrast strech image __By Mazhar Solkar');
+
+

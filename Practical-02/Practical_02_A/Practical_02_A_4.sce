@@ -15,4 +15,6 @@ end
 
 subplot(1,2,2);
 imshow(uint8(c));
-title("Power Law image")
+title("Power Law image __By Mazhar Solkar")
+
+

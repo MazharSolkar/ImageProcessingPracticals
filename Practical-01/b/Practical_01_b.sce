@@ -1,9 +1,6 @@
 //PRACTICAL 1 
 //(B) Program to study the effects of reducing the spatial resolution of a digital image
 
-disp('Mazhar Solkar')
-disp('R.NO: 32')
-
 I = imread('C:\Program Files\scilab-6.1.1\IPCV\images/lena.png');
 subplot (2,3,1);
 imshow (I);
@@ -33,4 +30,4 @@ title('Original image 16*16');
 I6 = imresize(I,0.03125);
 subplot (2,3,6);
 imshow(I6);
-title('Original image 8*8');
+title('Original image 8*8 __By Mazhar Solkar');

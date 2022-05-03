@@ -13,4 +13,7 @@ for i = 1:m
 end
 subplot(1,2,2);
 imshow(c);
-title('Negation image');
+title('Negation image __By Mazhar Solkar');
+
+
+

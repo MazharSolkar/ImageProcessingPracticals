@@ -18,4 +18,6 @@ end
 
 subplot(1,2,2);
 imshow(c);
-title('Threshold image');
+title('Threshold image __By Mazhar Solkar');
+
+
