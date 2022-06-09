@@ -16,5 +16,5 @@ imshow(NoisyImage);
 title('Noisy Image');
 
 subplot(1,3,3);
-imshow(Output);
-title('Filter Image __By Mazhar Solkar')
+imshow(output);
+title('Filter Image __By Pranali Doiphode')
